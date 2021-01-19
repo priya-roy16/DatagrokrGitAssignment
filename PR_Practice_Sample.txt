@@ -1,0 +1,7 @@
+Title : Allow Customer Notification via Whatsapp
+
+The code has been modified so as to provide an optional feature to customers of providing their Whatsapp Number. They will be getting update notifications via email as well as Whatsapp now.
+
+A lot of customers were requesting for a Whatsapp notification option. Hence this update was added.
+
+PR Reviewers: @ABC, @XYZ, @123
